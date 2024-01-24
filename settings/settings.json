@@ -1,0 +1,4 @@
+{
+    "api_key" : "put/api/key/here",
+    "url" : "https://www.virustotal.com/vtapi/v2/file/report"
+}
